@@ -1,2 +1,7 @@
-/node_modules
+node_modules
 dist
+
+# Storybook build outputs
+.out
+.storybook-out
+storybook-static
